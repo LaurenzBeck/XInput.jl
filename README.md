@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".docs/src/assets/xbox_controller_banner.jpg"/></a>
+    <img src="https://github.com/LaurenzBeck/XInput.jl/blob/master/docs/src/assets/xbox_controller_banner.jpg?raw=true"/></a>
 </p>
 
 <h1 align="center">
