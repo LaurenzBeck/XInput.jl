@@ -1,14 +1,14 @@
 name = "XInput"
 uuid = "a139f0b0-aff0-474c-bd1d-9cc0765dd9cf"
 authors = ["Laurenz Farthofer <laurenz@hey.com>"]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [deps]
 WinTypes = "7ce832dc-6953-4c0f-9163-51fbd0dcbc24"
 
 [compat]
 julia = "1.8"
-WinTypes = "0.2.1"
+WinTypes = "0.2.0"
 Aqua = "0.8.11"
 JET = "^0.9.0"
 Test = "1.9.3"
