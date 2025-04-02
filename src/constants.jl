@@ -1,0 +1,4 @@
+# constants from `xinput.h`
+const ERROR_SUCCESS = 0x00000000
+const ERROR_DEVICE_NOT_CONNECTED = 0x0000048f
+const BATTERY_DEVTYPE_GAMEPAD = 0x00
