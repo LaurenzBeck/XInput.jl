@@ -21,7 +21,7 @@ struct Gamepad
     rthumby::SHORT
 end
 
-"🔢🎭 a mapping from buttons (see [`Gamepad.buttons`](@ref)) to their corresponding bitmasks."
+"🔢🎭 a mapping from buttons (see [`Gamepad`](@ref)) to their corresponding bitmasks."
 const BUTTONS_BITMASKS = Dict(
     :up => 0x0001,
     :down => 0x0002,
