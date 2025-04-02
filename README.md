@@ -27,14 +27,14 @@ In a Julia script:
 ```julia
 using Pkg
 
-Pkg.add("Term")
+Pkg.add("XInput")
 ```
 
 or in the Julia REPL:
 
 ```julia
 julia> ]  # enters the pkg interface
-pkg> add Term
+pkg> add XInput
 ```
 
 ## 🧑‍💻 Usage
