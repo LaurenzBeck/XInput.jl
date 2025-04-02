@@ -15,4 +15,4 @@ makedocs(;
     pages = ["Home" => "index.md"],
 )
 
-deploydocs(; repo = "github.com/laurenzbeck/XInput.jl", devbranch = "master")
+deploydocs(; repo = "github.com/LaurenzBeck/XInput.jl", devbranch = "master")
